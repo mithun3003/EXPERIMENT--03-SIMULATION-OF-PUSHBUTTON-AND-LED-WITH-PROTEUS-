@@ -72,7 +72,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 
 #include "main.h"
 #include "stdbool.h"
@@ -170,7 +170,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif
 
-
+```
 
 ## Output screen shots of proteus  :
 
